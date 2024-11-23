@@ -33,4 +33,4 @@ boggle_game.py: Main Python script for the game.
 words.txt: Dictionary file with valid words.
 
 **License**
-This project is licensed under the MIT License. See the LICENSE file for more details.
+See. See the LICENSE file for more details.
